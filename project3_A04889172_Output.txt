@@ -1,0 +1,111 @@
+                        Student Grade Sheet
+               Name of Student:       Nancy Peterson
+                           Age:       22
+                       Address:       510 Tumble Dr., San Gabriel, TX 57981
+Number of Years at Texas State:       3
+              Telephone Number:       (666) 759 - 2249
+     Student Social Security #:       492-35-5984
+                        Course:       S1428
+                          Test:       89.9
+                          Test:       98.2
+                          Test:       98.5
+                          Test:       98.8
+                          Test:       97.7
+               Numerical Grade:       97.4
+                  Letter Grade:       A
+             Appreciation Note:       Congratulations, Your performance is Excellent.
+
+                        Course:       S2309
+                          Test:       50.9
+                          Test:       55.2
+                          Test:       60.5
+                          Test:       65.8
+                          Test:       45.7
+               Numerical Grade:       55.6
+                  Letter Grade:       F
+                  Warning Note:       Your grade is too low and needs improvements.
+
+                        Course:       S2308
+                          Test:       60.9
+                          Test:       55.2
+                          Test:       60.5
+                          Test:       65.8
+                          Test:       60.7
+               Numerical Grade:       61.1
+                  Letter Grade:       D
+                  Warning Note:       Your grade is too low and needs improvements.
+
+                        Student Grade Sheet
+               Name of Student:       Jonah Peterson
+                           Age:       22
+                       Address:       510 Tumble Dr., San Gabriel, TX 57981
+Number of Years at Texas State:       4
+              Telephone Number:       (555) 759 - 2249
+     Student Social Security #:       555-35-5984
+                        Course:      S2308	
+                          Test:       98.9
+                          Test:       95.2
+                          Test:       98.5
+                          Test:       98.8
+                          Test:       97.7
+               Numerical Grade:       97.9
+                  Letter Grade:       A
+             Appreciation Note:       Congratulations, Your performance is Excellent.
+
+                        Course:       S2309
+                          Test:       50.9
+                          Test:       55.2
+                          Test:       60.5
+                          Test:       65.8
+                          Test:       45.7
+               Numerical Grade:       55.6
+                  Letter Grade:       F
+                  Warning Note:       Your grade is too low and needs improvements.
+
+                        Course:       S2308
+                          Test:       60.9
+                          Test:       55.2
+                          Test:       60.5
+                          Test:       65.8
+                          Test:       60.7
+               Numerical Grade:       61.1
+                  Letter Grade:       D
+                  Warning Note:       Your grade is too low and needs improvements.
+
+                        Student Grade Sheet
+               Name of Student:       James Peterson
+                           Age:       22
+                       Address:       510 Tumble Dr., San Gabriel, TX 57981
+Number of Years at Texas State:       4
+              Telephone Number:       (555) 759 - 2249
+     Student Social Security #:       555-35-5984
+                        Course:      S2308	
+                          Test:       98.9
+                          Test:       98.2
+                          Test:       98.5
+                          Test:       89.8
+                          Test:       97.7
+               Numerical Grade:       96.1
+                  Letter Grade:       A
+             Appreciation Note:       Congratulations, Your performance is Excellent.
+
+                        Course:       S2308
+                          Test:       50.9
+                          Test:       55.2
+                          Test:       60.5
+                          Test:       65.8
+                          Test:       45.7
+               Numerical Grade:       55.6
+                  Letter Grade:       F
+                  Warning Note:       Your grade is too low and needs improvements.
+
+                        Course:       S2309
+                          Test:       60.9
+                          Test:       55.2
+                          Test:       60.5
+                          Test:       65.8
+                          Test:       60.7
+               Numerical Grade:       61.1
+                  Letter Grade:       D
+                  Warning Note:       Your grade is too low and needs improvements.
+

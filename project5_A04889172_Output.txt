@@ -1,0 +1,116 @@
+Student Grade Sheet, Department of Computer Science, Texas State University
+               Name of Student:       Fancy Peterson
+                    Student ID:       A00591343
+                       Address:       515 Lumble St., San Gabriel, TX 57982
+              Telephone Number:       (666) 759 - 2249
+     Student Social Security #:       492-35-5984
+                           Age:       22
+Number of Years at Texas State:       3
+
+                        Course:       CS2307
+                          Test:       98.90
+                          Test:       98.20
+                          Test:       98.50
+                          Test:       89.80
+                          Test:       97.70
+                Numerical Grade:      96.08
+                  Letter Grade:       A
+                          Note:       Congratulations, Your performance is Excellent.
+
+                        Course:      ART2308
+                          Test:       50.90
+                          Test:       55.20
+                          Test:       60.50
+                          Test:       65.80
+                          Test:       45.70
+                Numerical Grade:      55.63
+                  Letter Grade:       F
+                          Note:         Your grade is too low and needs improvements.
+
+                        Course:       HS2309
+                          Test:       75.20
+                          Test:       55.20
+                          Test:       60.50
+                          Test:       65.80
+                          Test:       60.70
+                Numerical Grade:      62.56
+                  Letter Grade:       D
+                          Note:         Your grade is too low and needs improvements.
+
+Student Grade Sheet, Department of Computer Science, Texas State University
+               Name of Student:       Jonah Jorrddan
+                    Student ID:       A00591342
+                       Address:       511 Cumble Dr., San Gabriel, TX 57961
+              Telephone Number:       (555) 759 - 2249
+     Student Social Security #:       555-35-5984
+                           Age:       20
+Number of Years at Texas State:       2
+
+                        Course:       CS2307
+                          Test:       98.90
+                          Test:       98.20
+                          Test:       98.50
+                          Test:       89.80
+                          Test:       97.70
+                Numerical Grade:      96.08
+                  Letter Grade:       A
+                          Note:       Congratulations, Your performance is Excellent.
+
+                        Course:      ART2308
+                          Test:       50.90
+                          Test:       55.20
+                          Test:       60.50
+                          Test:       65.80
+                          Test:       45.70
+                Numerical Grade:      55.63
+                  Letter Grade:       F
+                          Note:         Your grade is too low and needs improvements.
+
+                        Course:       HS2309
+                          Test:       60.90
+                          Test:       55.20
+                          Test:       60.50
+                          Test:       65.80
+                          Test:       60.70
+                Numerical Grade:      61.13
+                  Letter Grade:       D
+                          Note:         Your grade is too low and needs improvements.
+
+Student Grade Sheet, Department of Computer Science, Texas State University
+               Name of Student:       James Colemann
+                    Student ID:       A00591342
+                       Address:       410 Jumble Ln., San Gabriel, TX 57281
+              Telephone Number:       (777) 759 - 2249
+     Student Social Security #:       555-25-5984
+                           Age:       19
+Number of Years at Texas State:       2
+
+                        Course:      MT2306	
+                          Test:       98.90
+                          Test:       98.20
+                          Test:       98.50
+                          Test:       89.80
+                          Test:       97.70
+                Numerical Grade:      96.08
+                  Letter Grade:       A
+                          Note:       Congratulations, Your performance is Excellent.
+
+                        Course:       CS2307
+                          Test:       98.90
+                          Test:       98.20
+                          Test:       98.50
+                          Test:       89.80
+                          Test:       97.70
+                Numerical Grade:      96.08
+                  Letter Grade:       A
+                          Note:       Congratulations, Your performance is Excellent.
+
+                        Course:      ART2308
+                          Test:       50.90
+                          Test:       55.20
+                          Test:       60.50
+                          Test:       65.80
+                          Test:       45.70
+                Numerical Grade:      55.63
+                  Letter Grade:       F
+                          Note:         Your grade is too low and needs improvements.

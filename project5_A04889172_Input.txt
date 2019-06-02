@@ -1,0 +1,80 @@
+Congratulations, Your performance is Excellent.
+Your grade is too low and needs improvements.
+Student Grade Sheet, Department of Computer Science, Texas State University
+Fancy Peterson
+A00591343
+515 Lumble St., San Gabriel, TX 57982
+(666) 759 - 2249
+492-35-5984
+22
+3
+CS2307
+98.9
+98.2
+98.5
+89.8
+97.7
+ART2308
+50.9
+55.2
+60.5
+65.8
+45.7
+HS2309
+75.2
+55.2
+60.5
+65.8
+60.7
+Student Grade Sheet, Department of Computer Science, Texas State University
+Jonah Jorrddan
+A00591342
+511 Cumble Dr., San Gabriel, TX 57961
+(555) 759 - 2249
+555-35-5984
+20
+2
+CS2307
+98.9
+98.2
+98.5
+89.8
+97.7
+ART2308
+50.9
+55.2
+60.5
+65.8
+45.7
+HS2309
+60.9
+55.2
+60.5
+65.8
+60.7
+Student Grade Sheet, Department of Computer Science, Texas State University
+James Colemann
+A00591342
+410 Jumble Ln., San Gabriel, TX 57281
+(777) 759 - 2249
+555-25-5984
+19
+2
+MT2306	
+98.9
+98.2
+98.5
+89.8
+97.7
+CS2307
+98.9
+98.2
+98.5
+89.8
+97.7
+ART2308
+50.9
+55.2
+60.5
+65.8
+45.7
